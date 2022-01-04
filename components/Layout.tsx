@@ -20,10 +20,10 @@ const links = [
 ];
 const ddmItems = [
     {
-        label: 'Settings',
+        label: 'Login',
     },
     {
-        label: 'Account',
+        label: 'Register',
     },
     {
         label: 'Logout',
